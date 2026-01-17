@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/resume-ai-backend/src/main/java/com/resume/backend/Service/ResumeService.java;/media/adityarana/Projects/Java Projects/Resume-Builder/resume-ai-backend/src/main/java/com/resume/backend/ServiceImpl/ResumeServiceImpl.java;/media/adityarana/Projects/Java Projects/Resume-Builder/resume-ai-backend/src/main/java/com/resume/backend/ResumeAiBackendApplication.java;/media/adityarana/Projects/Java Projects/Resume-Builder/resume-ai-backend/src/test/java/com/resume/backend/ResumeAiBackendApplicationTests.java;/media/adityarana/Projects/Java Projects/Resume-Builder/README.md" />
+  </component>
+</project>
