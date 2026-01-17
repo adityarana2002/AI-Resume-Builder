@@ -1,0 +1,46 @@
+ Generate a professional IT job resume in strict JSON format based on the provided description. 
+ IMPORTANT: 
+ 1. Return ONLY valid JSON. 
+ 2. Ensure all fields are separated by commas.
+ 3. Do NOT include comments like "// ...". 
+ 4. Do NOT use placeholders. 
+ 5. Follow this EXACT structure:
+
+ {
+   "personalInformation": {
+     "fullName": "Name",
+     "email": "email@example.com",
+     "phoneNumber": "+1234567890",
+     "location": "City, Country",
+     "linkedIn": "",
+     "gitHub": "",
+     "portfolio": ""
+   },
+   "summary": "Professional summary here.",
+   "skills": {
+     "programmingLanguages": ["Java", "Python"],
+     "frameworks": ["Spring", "React"],
+     "databases": ["MySQL"],
+     "cloud": ["AWS"],
+     "devOpsTools": ["Docker"],
+     "otherSkills": ["Agile"]
+   },
+   "experience": [
+     "Job Title at Company (Date) - Key responsibilities"
+   ],
+   "education": [
+     "Degree from University (Year)"
+   ],
+   "certifications": [
+     "Certification Name (Year)"
+   ],
+   "projects": [
+     "Project Name: Description of what was built using Tech Stack"
+   ],
+   "achievements": ["Achievement 1"],
+   "languages": ["English"],
+   "interests": ["Interest 1"]
+ }
+
+ Input description:
+ "{userDescription}"
